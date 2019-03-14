@@ -8,7 +8,8 @@ and open the template in the editor.
     Author     : cetecom
 */
 a.submenu{
-    margin: 0 0 0 20px;
+    /*margin: 0 0 0 20px;*/
+    padding: 0 0 0 20px;
 }
 
 #contenedor{
@@ -32,3 +33,12 @@ a.submenu{
    float: left;
    background: yellow;
 }
+a:hover { 
+  background-color: black;
+}
+
+/*a{
+    height: 25px;
+    width: 150px;
+    background: black;
+}*/
